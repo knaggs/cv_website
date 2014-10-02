@@ -1,4 +1,4 @@
 cv_website
 ==========
 
-My SPS for my CV
+My SPS (Single Page Site) for my CV
