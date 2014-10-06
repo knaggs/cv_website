@@ -1,3 +1,4 @@
+/* //-- Unordered Lists for social media etc -- */
 #navcontainer ul
 {
 margin: 0;
@@ -22,6 +23,14 @@ color: #fff;
 background-color: #369;
 }
 
+/* //-- Background -- */
+background-color: #fff; 
+background-image: 
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;
+
+/* //-- Original Background -- */
 .msg { padding: 10px; background: #222; position: relative; }
 .msg h1 { color: #fff;  }
 .msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
